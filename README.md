@@ -17,7 +17,7 @@ Sou **Desenvolvedor Full Stack**, interessado em transformar problemas reais em 
 
 Atualmente, concentro meus estudos e projetos em **Java** e **TypeScript**, trabalhando com tecnologias de frontend, backend, bancos de dados relacionais, documentação técnica e boas práticas de desenvolvimento.
 
-### 🚀 Projeto em destaque
+###  Projeto em destaque
 
 #### [Marketplace de Automações](https://github.com/PedroNilton/marketplace-automacoes) — em desenvolvimento
 
@@ -31,7 +31,7 @@ Marketplace brasileiro que pretende conectar pessoas e empresas que desejam auto
 
 > O projeto está em construção. O repositório documenta o estado atual, as decisões técnicas e os próximos incrementos planejados.
 
-### 🧰 Tecnologias
+###  Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -60,7 +60,7 @@ I'm a **Full Stack Developer** interested in turning real-world problems into we
 
 I currently focus my studies and projects on **Java** and **TypeScript**, working with frontend and backend technologies, relational databases, technical documentation, and software development best practices.
 
-### 🚀 Featured project
+###  Featured project
 
 #### [Automation Marketplace](https://github.com/PedroNilton/marketplace-automacoes) — work in progress
 
@@ -74,7 +74,7 @@ A Brazilian marketplace designed to connect people and companies seeking process
 
 > This project is under active development. Its repository documents the current state, technical decisions, and planned increments.
 
-### 🧰 Technologies
+###  Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -87,7 +87,7 @@ A Brazilian marketplace designed to connect people and companies seeking process
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌱 Currently
+###  Currently
 
 - Building the Automation Marketplace MVP through small, testable increments
 - Deepening my knowledge of full stack architecture, APIs, and databases
