@@ -11,7 +11,7 @@
 
 ## 🇧🇷 Português
 
-### Olá, eu sou Pedro Aurélio 👋
+### Olá, eu sou Pedro Aurélio 
 
 Sou **Desenvolvedor Full Stack**, interessado em transformar problemas reais em aplicações bem estruturadas, compreensíveis e fáceis de evoluir.
 
@@ -44,7 +44,7 @@ Marketplace brasileiro que pretende conectar pessoas e empresas que desejam auto
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌱 Atualmente
+###  Atualmente
 
 - Construindo o MVP do Marketplace de Automações em pequenas entregas testáveis
 - Aprofundando conhecimentos em arquitetura full stack, APIs e bancos de dados
@@ -54,7 +54,7 @@ Marketplace brasileiro que pretende conectar pessoas e empresas que desejam auto
 
 ## 🇺🇸 English
 
-### Hi, I'm Pedro Aurélio 👋
+### Hi, I'm Pedro Aurélio 
 
 I'm a **Full Stack Developer** interested in turning real-world problems into well-structured, understandable, and maintainable applications.
 
