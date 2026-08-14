@@ -7,6 +7,12 @@
   <a href="#-english">English</a>
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedroaurellio/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Pedro Aurélio" />
+  </a>
+</div>
+
 ---
 
 ## 🇧🇷 Português
