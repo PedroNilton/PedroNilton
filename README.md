@@ -2,20 +2,18 @@
   <img src="profile-banner.png" alt="Banner de Pedro Aurélio — desenvolvimento full stack" width="100%" />
 </div>
 
+<br />
+
 <div align="center">
-  <a href="#português">Português</a> •
-  <a href="#english">English</a>
+  <a href="#português">Português</a> • <a href="#english">English</a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedroaurellio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Pedro Aurélio" />
-  </a>
-  <a href="mailto:pedroaurelio.reis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pedroaurelio.reis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email de Pedro Aurélio" />
-  </a>
+  <a href="https://www.linkedin.com/in/pedroaurellio/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Pedro Aurélio" /></a>
+  &nbsp;
+  <a href="mailto:pedroaurelio.reis@gmail.com"><img src="https://img.shields.io/badge/Email-pedroaurelio.reis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email de Pedro Aurélio" /></a>
 </div>
 
 ---
