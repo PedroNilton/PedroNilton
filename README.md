@@ -127,9 +127,3 @@ RESTful API for smart scheduling and independent professionals.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-  <sub>Aracaju, SE • Construindo, aprendendo e evoluindo uma entrega por vez.</sub>
-</div>
