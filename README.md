@@ -24,7 +24,7 @@
 
 Sou **Desenvolvedor Full Stack** e graduando em **Ciência da Computação** (5º período - UNIT), focado em construir sistemas web corporativos, APIs seguras e aplicações escaláveis.
 
-Atualmente atuo na **DESO** com **PHP (Laravel e CakePHP), Vue.js e PostgreSQL**, além de integrar a **Residência Tecnológica (UNIT / FSPH)** desenvolvendo soluções em **Java 21, Spring Boot, React, TypeScript e Docker**.
+Atualmente atuo na **DESO** na sustentação, refatoração e evolução de 15+ sistemas web corporativos com **PHP (CakePHP e Laravel), JavaScript, Blade e PostgreSQL**, além de integrar a **Residência Tecnológica (UNIT / FSPH)** desenvolvendo soluções em **Java 21, Spring Boot, React, TypeScript e Docker**.
 
 ### Projetos em Destaque
 
@@ -45,8 +45,8 @@ Marketplace brasileiro conectando clientes a especialistas em automações e int
 
 #### [AgendaLivre API](https://github.com/PedroNilton/agendalivre-api) — Agendamento Inteligente
 API RESTful para gestão de horários e profissionais autônomos.
-- **Stack:** Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL e **Clean Architecture**.
-- **Destaques:** Isolamento do domínio de negócio e validação de concorrência contra agendamentos simultâneos (*double booking*).
+- **Stack:** Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL, JUnit 5, Mockito e **Clean Architecture**.
+- **Destaques:** Isolamento do domínio de negócio, validação de concorrência contra agendamentos simultâneos (*double booking*) e suíte de testes unitários.
 
 ### Tecnologias
 
@@ -67,9 +67,9 @@ API RESTful para gestão de horários e profissionais autônomos.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -80,7 +80,7 @@ API RESTful para gestão de horários e profissionais autônomos.
 
 I'm a **Full Stack Developer** and **Computer Science** undergraduate (5th semester - UNIT), focused on building corporate web systems, secure APIs, and scalable applications.
 
-Currently working at **DESO** with **PHP (Laravel & CakePHP), Vue.js, and PostgreSQL**, and participating in the **UNIT / FSPH Tech Residency** building solutions with **Java 21, Spring Boot, React, TypeScript, and Docker**.
+Currently working at **DESO** maintaining, refactoring, and evolving 15+ corporate web systems with **PHP (CakePHP & Laravel), JavaScript, Blade, and PostgreSQL**, and participating in the **UNIT / FSPH Tech Residency** building solutions with **Java 21, Spring Boot, React, TypeScript, and Docker**.
 
 ### Featured Projects
 
@@ -101,8 +101,8 @@ Brazilian marketplace connecting clients with automation and integration special
 
 #### [AgendaLivre API](https://github.com/PedroNilton/agendalivre-api) — Smart Scheduling System
 RESTful API for smart scheduling and independent professionals.
-- **Stack:** Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL, and **Clean Architecture**.
-- **Highlights:** Strict domain isolation and concurrency validation to prevent double booking.
+- **Stack:** Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL, JUnit 5, Mockito, and **Clean Architecture**.
+- **Highlights:** Strict domain isolation, concurrency validation to prevent double booking, and unit test suite.
 
 ### Technologies
 
@@ -123,7 +123,7 @@ RESTful API for smart scheduling and independent professionals.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
